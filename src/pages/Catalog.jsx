@@ -88,7 +88,7 @@ const Catalog = () => {
               } cursor-pointer`}
             onClick={() => setActive(1)}
           >
-            Most Popular
+            Recommended Course
           </p>
           <p
             className={`px-4 py-2 ${active === 2
